@@ -3,7 +3,7 @@ Caddy Web Server with Cloudflare Dynamic DNS/IPs, CrowdSec Bouncer, GeoIP Filter
 
 [![Docker Build and Publish](https://github.com/jstgnkl/caddy/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/jstgnkl/caddy/actions/workflows/docker-publish.yml)
 
-**DockerHub:** [timelordx/caddy](https://hub.docker.com/r/zenety/caddy)
+**DockerHub:** [zenety/caddy](https://hub.docker.com/r/zenety/caddy)
 
 **Docker Pull Command**
 
